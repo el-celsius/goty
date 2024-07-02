@@ -105,3 +105,6 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [18:38:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
 [18:38:01] [Server thread/INFO]: .Kudo6693 joined the game
 [18:38:01] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 241 at ([world]-51.78723, 93.0, 41.414677)
+[18:38:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[18:39:05] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> we
+[18:39:09] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> donde esta
