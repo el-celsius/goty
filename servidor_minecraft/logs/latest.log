@@ -75,3 +75,18 @@
 [03:29:00] [Server thread/INFO]: .MrNeiker3610[/127.156.44.191:0] logged in with entity id 53 at ([world]6.5, 102.0, -3.5)
 [03:31:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.MrNeiker3610> hola
 [03:32:40] [Server thread/INFO]: .MrNeiker3610 has made the advancement [Stone Age]
+[03:33:28] [Server thread/INFO]: .MrNeiker3610 has made the advancement [Getting an Upgrade]
+[03:34:59] [User Authenticator #0/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[03:35:06] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[03:35:06] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:54165] logged in with entity id 501 at ([world]0.615262505684381, 103.0, -5.610162679300579)
+[03:36:30] [Server thread/INFO]: .MrNeiker3610 was slain by Zombie
+[03:36:37] [Server thread/INFO]: La_Tortuga_Weona has made the advancement [Stone Age]
+[03:37:12] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[03:37:17] [Server thread/INFO]: .MrNeiker3610 was slain by Zombie
+[03:40:17] [Server thread/INFO]: .MrNeiker3610 was slain by Zombie
+[03:42:55] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username StarGalaxy34618
+[03:42:55] [localSession-7-3/INFO]: [Geyser-Spigot] StarGalaxy34618 (logged in as: StarGalaxy34618) has connected to the Java server
+[03:42:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .StarGalaxy34618 joined (UUID: 00000000-0000-0000-0009-01fe43eae9a9)
+[03:42:55] [Server thread/INFO]: .StarGalaxy34618 joined the game
+[03:42:55] [Server thread/INFO]: .StarGalaxy34618[/127.229.29.62:0] logged in with entity id 1060 at ([world]-0.5, 105.0, 9.5)
+[03:43:24] [Async Chat Thread - #1/INFO]: [Not Secure] <.StarGalaxy34618> neiker negro
