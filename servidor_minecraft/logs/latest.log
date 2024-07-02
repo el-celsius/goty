@@ -144,3 +144,35 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:34:16] [Server thread/INFO]: LuSDxc joined the game
 [22:34:16] [Server thread/INFO]: LuSDxc[/127.25.114.145:44449] logged in with entity id 9461 at ([world_nether]-244.30000001192093, 60.0, 11.699999988079071)
 [22:34:34] [Server thread/INFO]: LEO has made the advancement [Monster Hunter]
+[22:35:40] [Server thread/WARN]: La_Tortuga_Weona moved too quickly! -22.40241439713634,3.310602705170922,0.38671446061420056
+[22:35:41] [Server thread/INFO]: LEO has made the advancement [Stone Age]
+[22:35:41] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[22:35:42] [Server thread/INFO]: La_Tortuga_Weona left the game
+[22:35:48] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
+[22:36:04] [User Authenticator #5/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[22:36:05] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[22:36:05] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:35343] logged in with entity id 9815 at ([world]-949.6869909708703, 62.29035078777384, -359.7042135913836)
+[22:36:50] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[22:36:50] [Server thread/INFO]: LuSDxc left the game
+[22:36:50] [Server thread/INFO]: LEO has made the advancement [Getting an Upgrade]
+[22:37:35] [User Authenticator #6/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[22:37:41] [Server thread/INFO]: LuSDxc joined the game
+[22:37:41] [Server thread/INFO]: LuSDxc[/127.25.114.145:57871] logged in with entity id 10275 at ([world_nether]-248.27441748876763, 60.0, 10.745761551518127)
+[22:38:11] [Server thread/INFO]: LuSDxc lost connection: Timed out
+[22:38:11] [Server thread/INFO]: LuSDxc left the game
+[22:38:15] [User Authenticator #6/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[22:38:21] [Server thread/INFO]: LuSDxc joined the game
+[22:38:21] [Server thread/INFO]: LuSDxc[/127.25.114.145:48611] logged in with entity id 10443 at ([world_nether]-248.27441748876763, 60.0, 10.745761551518127)
+[22:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> leo
+[22:39:34] [Async Chat Thread - #0/INFO]: [Not Secure] <LEO> dime
+[22:39:51] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> aqi
+[22:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> aqui si no se puede arder y pasarce a creativo
+[22:40:11] [Async Chat Thread - #0/INFO]: [Not Secure] <LEO> donde
+[22:40:13] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> gei
+[22:42:14] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[22:42:14] [Server thread/INFO]: La_Tortuga_Weona left the game
+[22:42:20] [Server thread/INFO]: LuSDxc has made the advancement [A Terrible Fortress]
+[22:42:26] [User Authenticator #7/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[22:42:28] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[22:42:28] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:48177] logged in with entity id 11732 at ([world]-1906.7548431882465, 63.1891863272388, -44.14805791708687)
+[22:44:38] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
