@@ -1,48 +1,48 @@
-[21:11:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:11:11] [ServerMain/INFO]: Loaded 1290 recipes
-[21:11:11] [ServerMain/INFO]: Loaded 1399 advancements
-[21:11:12] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:11:12] [Server thread/INFO]: Loading properties
-[21:11:12] [Server thread/INFO]: This server is running Paper version 1.21-40-master@b45d9b6 (2024-07-01T08:23:14Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:11:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:11:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:11:14] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[23:08:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:08:11] [ServerMain/INFO]: Loaded 1290 recipes
+[23:08:11] [ServerMain/INFO]: Loaded 1399 advancements
+[23:08:12] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:08:12] [Server thread/INFO]: Loading properties
+[23:08:12] [Server thread/INFO]: This server is running Paper version 1.21-40-master@b45d9b6 (2024-07-01T08:23:14Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:08:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:08:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:08:14] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:11:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:11:14] [Server thread/INFO]: Default game type: SURVIVAL
-[21:11:14] [Server thread/INFO]: Generating keypair
-[21:11:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:11:15] [Server thread/INFO]: Using epoll channel type
-[21:11:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:11:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:11:15] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[21:11:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:11:19] [Server thread/INFO]: [floodgate] Took 4,166ms to boot Floodgate
-[21:11:19] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[21:11:19] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.73
-[21:11:19] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[21:11:19] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[21:11:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:11:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:11:22] [Server thread/INFO]: [TPAPlugin] Loading server plugin TPAPlugin v1.2
-[21:11:22] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
-[21:11:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:11:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:11:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:11:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:11:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:11:22] [Server thread/INFO]: Preparing level "world"
-[21:11:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:11:25] [Server thread/INFO]: Time elapsed: 2084 ms
-[21:11:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:11:25] [Server thread/INFO]: Time elapsed: 296 ms
-[21:11:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:11:25] [Server thread/INFO]: Time elapsed: 305 ms
-[21:11:25] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[21:11:27] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[21:11:27] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[21:11:27] [Server thread/ERROR]: Error occurred while enabling ClearLag v3.2.2 (Is it up to date?)
+[23:08:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:08:14] [Server thread/INFO]: Default game type: SURVIVAL
+[23:08:14] [Server thread/INFO]: Generating keypair
+[23:08:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:08:14] [Server thread/INFO]: Using epoll channel type
+[23:08:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:08:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:08:15] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[23:08:18] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:08:18] [Server thread/INFO]: [floodgate] Took 2,906ms to boot Floodgate
+[23:08:18] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[23:08:18] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.73
+[23:08:18] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[23:08:18] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[23:08:20] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:08:20] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:08:20] [Server thread/INFO]: [TPAPlugin] Loading server plugin TPAPlugin v1.2
+[23:08:20] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[23:08:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:08:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:08:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:08:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:08:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:08:20] [Server thread/INFO]: Preparing level "world"
+[23:08:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:08:23] [Server thread/INFO]: Time elapsed: 2182 ms
+[23:08:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:08:23] [Server thread/INFO]: Time elapsed: 272 ms
+[23:08:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:08:24] [Server thread/INFO]: Time elapsed: 365 ms
+[23:08:24] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[23:08:25] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[23:08:25] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[23:08:25] [Server thread/ERROR]: Error occurred while enabling ClearLag v3.2.2 (Is it up to date?)
 org.yaml.snakeyaml.constructor.ConstructorException: could not determine a constructor for the tag !Minecart
  in 'reader', line 149, column 7:
         - !Minecart
@@ -78,101 +78,61 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1157) ~[paper-1.21.jar:1.21-40-b45d9b6]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329) ~[paper-1.21.jar:1.21-40-b45d9b6]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[21:11:27] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[21:11:27] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[21:11:27] [Server thread/INFO]: [spark] Enabling spark v1.10.73
-[21:11:29] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[21:11:29] [Server thread/INFO]: [spark] Starting background profiler...
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[21:11:30] [Server thread/INFO]: [TPAPlugin] Enabling TPAPlugin v1.2
-[21:11:30] [Server thread/INFO]: [TPAPlugin] Thank you for using the TPAPlugin plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
-[21:11:30] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] 
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b588 (git-master-48ea81e)
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] 
-[21:11:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:11:41] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:3932
-[21:11:41] [Server thread/INFO]: [Geyser-Spigot] Done (10.891s)! Run /geyser help for help!
-[21:11:42] [Server thread/INFO]: Running delayed init tasks
-[21:11:42] [Server thread/INFO]: Done (29.510s)! For help, type "help"
-[21:11:42] [Server thread/INFO]: Timings Reset
-[21:13:19] [User Authenticator #0/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
-[21:13:27] [Server thread/INFO]: LuSDxc joined the game
-[21:13:27] [Server thread/INFO]: LuSDxc[/127.213.68.72:46733] logged in with entity id 25 at ([world]-842.296138716855, 0.0, -228.4629104709143)
-[21:16:12] [User Authenticator #1/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[21:16:13] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[21:16:13] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:55801] logged in with entity id 215 at ([world]-1117.22167917876, 27.0, -171.2893226199669)
-[21:16:31] [Server thread/INFO]: LuSDxc lost connection: Disconnected
-[21:16:32] [Server thread/INFO]: LuSDxc left the game
-[21:17:35] [User Authenticator #2/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
-[21:17:43] [Server thread/INFO]: LuSDxc joined the game
-[21:17:43] [Server thread/INFO]: LuSDxc[/127.25.114.145:53249] logged in with entity id 324 at ([world]-841.4775130590375, -5.0, -200.30000001192093)
-[21:21:35] [Server thread/INFO]: LuSDxc has made the advancement [Cover Me with Diamonds]
-[21:25:00] [Server thread/INFO]: LuSDxc has made the advancement [Hot Stuff]
-[21:26:27] [Server thread/INFO]: LuSDxc has made the advancement [Ice Bucket Challenge]
-[21:30:15] [Server thread/INFO]: La_Tortuga_Weona burned to death
-[21:45:40] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
-[21:45:40] [Server thread/INFO]: La_Tortuga_Weona left the game
-[21:48:38] [User Authenticator #3/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[21:48:39] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[21:48:39] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:42189] logged in with entity id 3660 at ([world]-1307.8645897111037, 73.0, -300.6272809524519)
-[21:50:48] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.242.75.80 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
-[22:13:08] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
-[22:13:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
-[22:15:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
-[22:23:27] [Server thread/INFO]: LuSDxc has made the advancement [We Need to Go Deeper]
-[22:26:40] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
-[22:26:56] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
-[22:26:56] [Server thread/INFO]: La_Tortuga_Weona left the game
-[22:30:58] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
-[22:31:40] [Server thread/INFO]: LuSDxc has made the advancement [Who is Cutting Onions?]
-[22:31:52] [Server thread/INFO]: LuSDxc lost connection: Disconnected
-[22:31:52] [Server thread/INFO]: LuSDxc left the game
-[22:32:33] [User Authenticator #4/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
-[22:32:36] [Server thread/INFO]: LEO joined the game
-[22:32:36] [Server thread/INFO]: LEO[/127.57.197.62:34903] logged in with entity id 9321 at ([world]8.5, 104.0, 2.5)
-[22:33:06] [Server thread/INFO]: LEO lost connection: Timed out
-[22:33:06] [Server thread/INFO]: LEO left the game
-[22:33:19] [User Authenticator #4/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[22:33:20] [User Authenticator #4/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
-[22:33:21] [Server thread/INFO]: LEO joined the game
-[22:33:21] [Server thread/INFO]: LEO[/127.57.197.62:50075] logged in with entity id 9375 at ([world]8.5, 104.0, 2.5)
-[22:33:23] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[22:33:23] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:55855] logged in with entity id 9374 at ([world]-2223.3084974003673, -17.0, -18.549466192233762)
-[22:34:06] [User Authenticator #4/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
-[22:34:16] [Server thread/INFO]: LuSDxc joined the game
-[22:34:16] [Server thread/INFO]: LuSDxc[/127.25.114.145:44449] logged in with entity id 9461 at ([world_nether]-244.30000001192093, 60.0, 11.699999988079071)
-[22:34:34] [Server thread/INFO]: LEO has made the advancement [Monster Hunter]
-[22:35:40] [Server thread/WARN]: La_Tortuga_Weona moved too quickly! -22.40241439713634,3.310602705170922,0.38671446061420056
-[22:35:41] [Server thread/INFO]: LEO has made the advancement [Stone Age]
-[22:35:41] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
-[22:35:42] [Server thread/INFO]: La_Tortuga_Weona left the game
-[22:35:48] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
-[22:36:04] [User Authenticator #5/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[22:36:05] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[22:36:05] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:35343] logged in with entity id 9815 at ([world]-949.6869909708703, 62.29035078777384, -359.7042135913836)
-[22:36:50] [Server thread/INFO]: LuSDxc lost connection: Disconnected
-[22:36:50] [Server thread/INFO]: LuSDxc left the game
-[22:36:50] [Server thread/INFO]: LEO has made the advancement [Getting an Upgrade]
-[22:37:35] [User Authenticator #6/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
-[22:37:41] [Server thread/INFO]: LuSDxc joined the game
-[22:37:41] [Server thread/INFO]: LuSDxc[/127.25.114.145:57871] logged in with entity id 10275 at ([world_nether]-248.27441748876763, 60.0, 10.745761551518127)
-[22:38:11] [Server thread/INFO]: LuSDxc lost connection: Timed out
-[22:38:11] [Server thread/INFO]: LuSDxc left the game
-[22:38:15] [User Authenticator #6/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
-[22:38:21] [Server thread/INFO]: LuSDxc joined the game
-[22:38:21] [Server thread/INFO]: LuSDxc[/127.25.114.145:48611] logged in with entity id 10443 at ([world_nether]-248.27441748876763, 60.0, 10.745761551518127)
-[22:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> leo
-[22:39:34] [Async Chat Thread - #0/INFO]: [Not Secure] <LEO> dime
-[22:39:51] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> aqi
-[22:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> aqui si no se puede arder y pasarce a creativo
-[22:40:11] [Async Chat Thread - #0/INFO]: [Not Secure] <LEO> donde
-[22:40:13] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> gei
-[22:42:14] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
-[22:42:14] [Server thread/INFO]: La_Tortuga_Weona left the game
-[22:42:20] [Server thread/INFO]: LuSDxc has made the advancement [A Terrible Fortress]
-[22:42:26] [User Authenticator #7/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[22:42:28] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[22:42:28] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:48177] logged in with entity id 11732 at ([world]-1906.7548431882465, 63.1891863272388, -44.14805791708687)
-[22:44:38] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
+[23:08:25] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[23:08:25] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[23:08:25] [Server thread/INFO]: [spark] Enabling spark v1.10.73
+[23:08:27] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[23:08:27] [Server thread/INFO]: [spark] Starting background profiler...
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[23:08:28] [Server thread/INFO]: [TPAPlugin] Enabling TPAPlugin v1.2
+[23:08:28] [Server thread/INFO]: [TPAPlugin] Thank you for using the TPAPlugin plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
+[23:08:28] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] 
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b588 (git-master-48ea81e)
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] 
+[23:08:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:08:38] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:3932
+[23:08:38] [Server thread/INFO]: [Geyser-Spigot] Done (9.733s)! Run /geyser help for help!
+[23:08:38] [Server thread/INFO]: Running delayed init tasks
+[23:08:38] [Server thread/INFO]: Done (26.765s)! For help, type "help"
+[23:08:38] [Server thread/INFO]: Timings Reset
+[23:10:10] [User Authenticator #0/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[23:10:11] [User Authenticator #0/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
+[23:10:14] [Server thread/INFO]: LEO joined the game
+[23:10:14] [Server thread/INFO]: LEO[/127.57.197.62:60989] logged in with entity id 25 at ([world]13.463094903696708, 116.0, -133.3802326406082)
+[23:10:15] [Server thread/INFO]: LuSDxc joined the game
+[23:10:15] [Server thread/INFO]: LuSDxc[/127.213.68.72:35231] logged in with entity id 24 at ([world_nether]-276.4822128519006, 60.0, -60.62602556498358)
+[23:10:19] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[23:10:19] [Server thread/INFO]: LuSDxc left the game
+[23:10:41] [User Authenticator #0/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
+[23:10:41] [Server thread/INFO]: LEO lost connection: You logged in from another location
+[23:10:41] [Server thread/INFO]: LEO left the game
+[23:10:43] [Server thread/INFO]: LEO joined the game
+[23:10:43] [Server thread/INFO]: LEO[/127.57.197.62:59921] logged in with entity id 118 at ([world]13.463094903696708, 116.0, -133.3802326406082)
+[23:10:56] [User Authenticator #0/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[23:11:00] [Server thread/INFO]: LuSDxc joined the game
+[23:11:00] [Server thread/INFO]: LuSDxc[/127.213.68.72:50667] logged in with entity id 127 at ([world_nether]-276.4822128519006, 60.0, -60.62602556498358)
+[23:11:13] [Server thread/INFO]: LEO lost connection: Timed out
+[23:11:13] [Server thread/INFO]: LEO left the game
+[23:11:19] [User Authenticator #0/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[23:11:20] [Server thread/INFO]: LuSDxc lost connection: You logged in from another location
+[23:11:20] [Server thread/INFO]: LuSDxc left the game
+[23:11:23] [User Authenticator #0/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
+[23:11:24] [Server thread/INFO]: LuSDxc joined the game
+[23:11:24] [Server thread/INFO]: LuSDxc[/127.213.68.72:57921] logged in with entity id 172 at ([world_nether]-276.4822128519006, 60.0, -60.62602556498358)
+[23:11:24] [Server thread/INFO]: LEO joined the game
+[23:11:24] [Server thread/INFO]: LEO[/127.57.197.62:50885] logged in with entity id 173 at ([world]13.463094903696708, 116.0, -133.3802326406082)
+[23:12:03] [User Authenticator #0/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[23:12:04] [Server thread/INFO]: LuSDxc withered away
+[23:12:04] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[23:12:04] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:59133] logged in with entity id 234 at ([world]-822.2217867425804, 64.0, -275.60306000240473)
+[23:12:39] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa La_Tortuga_Weona
+[23:12:53] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> conteste la llamda
+[23:13:04] [Async Chat Thread - #0/INFO]: [Not Secure] <LuSDxc> esper
+[23:13:07] [Server thread/INFO]: La_Tortuga_Weona has made the advancement [We Need to Go Deeper]
+[23:13:21] [Async Chat Thread - #0/INFO]: [Not Secure] <LEO> cual
+[23:14:15] [Server thread/INFO]: La_Tortuga_Weona has made the advancement [A Terrible Fortress]
+[23:14:37] [Server thread/INFO]: LEO fell from a high place
+[23:15:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> regresemosw
+[23:15:35] [Server thread/INFO]: LuSDxc has completed the challenge [Return to Sender]
