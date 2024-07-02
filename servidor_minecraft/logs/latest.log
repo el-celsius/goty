@@ -122,3 +122,24 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:13:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
 [22:15:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
 [22:23:27] [Server thread/INFO]: LuSDxc has made the advancement [We Need to Go Deeper]
+[22:26:40] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[22:26:56] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[22:26:56] [Server thread/INFO]: La_Tortuga_Weona left the game
+[22:30:58] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
+[22:31:40] [Server thread/INFO]: LuSDxc has made the advancement [Who is Cutting Onions?]
+[22:31:52] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[22:31:52] [Server thread/INFO]: LuSDxc left the game
+[22:32:33] [User Authenticator #4/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
+[22:32:36] [Server thread/INFO]: LEO joined the game
+[22:32:36] [Server thread/INFO]: LEO[/127.57.197.62:34903] logged in with entity id 9321 at ([world]8.5, 104.0, 2.5)
+[22:33:06] [Server thread/INFO]: LEO lost connection: Timed out
+[22:33:06] [Server thread/INFO]: LEO left the game
+[22:33:19] [User Authenticator #4/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[22:33:20] [User Authenticator #4/INFO]: UUID of player LEO is 3278f30c-c232-348c-851c-c139f6f33504
+[22:33:21] [Server thread/INFO]: LEO joined the game
+[22:33:21] [Server thread/INFO]: LEO[/127.57.197.62:50075] logged in with entity id 9375 at ([world]8.5, 104.0, 2.5)
+[22:33:23] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[22:33:23] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:55855] logged in with entity id 9374 at ([world]-2223.3084974003673, -17.0, -18.549466192233762)
+[22:34:06] [User Authenticator #4/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[22:34:16] [Server thread/INFO]: LuSDxc joined the game
+[22:34:16] [Server thread/INFO]: LuSDxc[/127.25.114.145:44449] logged in with entity id 9461 at ([world_nether]-244.30000001192093, 60.0, 11.699999988079071)
