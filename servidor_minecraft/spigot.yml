@@ -64,7 +64,7 @@ world-settings:
     merge-radius:
       item: 4.0
       exp:  6.0
-    mob-spawn-range: 4
+    mob-spawn-range: 3
     item-despawn-rate: 4000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
@@ -104,7 +104,7 @@ world-settings:
       raiders: 40
       misc: 13
       water: 13
-      villagers: 27
+      villagers: 19
       flying-monsters: 34
       wake-up-inactive:
         animals-max-per-tick: 4
@@ -125,12 +125,12 @@ world-settings:
       tick-inactive-villagers: false
       ignore-spectators: false
     entity-tracking-range:
-      players: 128
-      animals: 96
-      monsters: 96
-      misc: 96
+      players: 40
+      animals: 40
+      monsters: 40
+      misc: 24
       display: 128
-      other: 64
+      other: 32
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
