@@ -130,3 +130,54 @@
 [17:35:44] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
 [17:35:44] [Server thread/INFO]: La_Tortuga_Weona left the game
 [17:36:00] [Server thread/INFO]: LuSDxc issued server command: /tpa spaw
+[17:36:46] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[17:36:46] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[17:36:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[17:36:47] [Server thread/INFO]: .Kudo6693 joined the game
+[17:36:47] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 1088 at ([world]-4.5, 104.0, -2.5)
+[17:37:02] [Async Chat Thread - #4/INFO]: [Not Secure] <LuSDxc> wena
+[17:37:08] [Async Chat Thread - #5/INFO]: [Not Secure] <.Kudo6693> Alfin
+[17:37:27] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> le cambio airon por madera
+[17:37:37] [User Authenticator #6/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:37:40] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:37:40] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:33981] logged in with entity id 1211 at ([world]-72.52423807656207, 104.0, -110.45804363216378)
+[17:37:50] [Async Chat Thread - #5/INFO]: [Not Secure] <.Kudo6693> esperw we
+[17:38:02] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> neiker
+[17:38:07] [Async Chat Thread - #5/INFO]: [Not Secure] <.Kudo6693> apenas entro y ya me quiere sobreexplotar
+[17:38:30] [Async Chat Thread - #5/INFO]: [Not Secure] <La_Tortuga_Weona> que hablan ustedes?
+[17:38:34] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> mente de tiburon
+[17:38:40] [Async Chat Thread - #5/INFO]: [Not Secure] <La_Tortuga_Weona> plastas
+[17:38:55] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> lo voy a poner a chambear
+[17:39:08] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[17:39:08] [Async Chat Thread - #5/INFO]: [Not Secure] <La_Tortuga_Weona> goty
+[17:39:10] [Async Chat Thread - #5/INFO]: [Not Secure] <.Kudo6693> pase coordenadas dei
+[17:39:22] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> use tpa
+[17:39:29] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[17:39:40] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[17:39:47] [Server thread/INFO]: .Kudo6693 has made the advancement [Stone Age]
+[17:39:47] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[17:40:15] [Async Chat Thread - #5/INFO]: [Not Secure] <La_Tortuga_Weona> donde esta aquel
+[17:40:30] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> weon
+[17:40:35] [Server thread/INFO]: .Kudo6693 has made the advancement [Getting an Upgrade]
+[17:40:54] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> gordita .Kudo6693
+[17:40:59] [Async Chat Thread - #5/INFO]: [Not Secure] <La_Tortuga_Weona> ahorita aplica la de me revelo?
+[17:41:03] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> donde anda
+[17:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] <.Kudo6693> consiguiendo cosS gei
+[17:41:26] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> perdon
+[17:41:31] [Server thread/INFO]: La_Tortuga_Weona was slain by LuSDxc
+[17:41:37] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> mi perro no
+[17:41:55] [Async Chat Thread - #5/INFO]: [Not Secure] <LuSDxc> fue sin querer
+[17:42:28] [Async Chat Thread - #4/INFO]: [Not Secure] <La_Tortuga_Weona> y porque no sento al perro no ve que me estaba matando
+[17:42:28] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[17:42:28] [Server thread/INFO]: La_Tortuga_Weona left the game
+[17:42:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.Kudo6693> goty
+[17:43:27] [User Authenticator #7/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:43:28] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:43:28] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:53001] logged in with entity id 1716 at ([world]-46.89088231802457, 104.0, -63.330677532006135)
+[17:44:16] [Async Chat Thread - #6/INFO]: [Not Secure] <.Kudo6693> neiker
+[17:44:19] [Async Chat Thread - #8/INFO]: [Not Secure] <La_Tortuga_Weona> que
+[17:44:25] [Async Chat Thread - #8/INFO]: [Not Secure] <.Kudo6693> ustwd es bautista?
+[17:44:42] [Async Chat Thread - #8/INFO]: [Not Secure] <La_Tortuga_Weona> trabaje mas bien
+[17:46:33] [Server thread/WARN]: Horse (vehicle of LuSDxc) moved wrongly! 0.3068318105589327
+[17:46:33] [Server thread/WARN]: Horse (vehicle of LuSDxc) moved wrongly! 0.7225860548713428
+[17:46:33] [Server thread/WARN]: Horse (vehicle of LuSDxc) moved wrongly! 1.1243611832575198
