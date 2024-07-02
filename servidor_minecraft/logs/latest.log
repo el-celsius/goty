@@ -139,3 +139,18 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [18:49:16] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
 [18:49:38] [Server thread/INFO]: LuSDxc lost connection: Disconnected
 [18:49:38] [Server thread/INFO]: LuSDxc left the game
+[18:50:59] [User Authenticator #2/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[18:51:05] [Server thread/INFO]: LuSDxc joined the game
+[18:51:05] [Server thread/INFO]: LuSDxc[/127.25.114.145:42391] logged in with entity id 2149 at ([world]115.40797255454605, 94.0, -332.2983527841755)
+[18:51:20] [Server thread/INFO]: .Kudo6693 has made the advancement [Sweet Dreams]
+[18:52:29] [Async Chat Thread - #4/INFO]: [Not Secure] <LuSDxc> duerman
+[18:52:59] [Async Chat Thread - #4/INFO]: [Not Secure] <LuSDxc> duerman caraemondas
+[18:53:49] [Async Chat Thread - #4/INFO]: [Not Secure] <LuSDxc> hablamos por discord?
+[18:53:55] [Async Chat Thread - #4/INFO]: [Not Secure] <La_Tortuga_Weona> dale
+[18:54:25] [Async Chat Thread - #4/INFO]: [Not Secure] <La_Tortuga_Weona> pero ahorita no we
+[18:56:19] [Async Chat Thread - #6/INFO]: [Not Secure] <LuSDxc> conteste
+[18:56:27] [Async Chat Thread - #6/INFO]: [Not Secure] <La_Tortuga_Weona> que por ahorita no we
+[18:57:25] [Async Chat Thread - #6/INFO]: [Not Secure] <LuSDxc> aqui es muy obio
+[18:57:39] [Async Chat Thread - #6/INFO]: [Not Secure] <La_Tortuga_Weona> espera i veras
+[18:57:50] [Async Chat Thread - #6/INFO]: [Not Secure] <LuSDxc> conteste pendejo
+[18:59:22] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
