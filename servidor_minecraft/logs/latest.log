@@ -159,3 +159,38 @@
 [04:15:21] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [04:15:36] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
 [04:16:07] [Server thread/INFO]: La_Tortuga_Weona was slain by LuSDxc
+[04:26:20] [Server thread/INFO]: Stopping the server
+[04:26:20] [Server thread/INFO]: Stopping server
+[04:26:20] [Server thread/INFO]: [TPAPlugin] Disabling TPAPlugin v1.2
+[04:26:20] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[04:26:20] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:26:20] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:26:20] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[04:26:20] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[04:26:20] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[04:26:21] [Server thread/INFO]: Saving players
+[04:26:21] [WebSocketConnectReadThread-70/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:26:21] [Server thread/INFO]: LuSDxc lost connection: Server closed
+[04:26:21] [Server thread/INFO]: LuSDxc left the game
+[04:26:21] [Server thread/INFO]: La_Tortuga_Weona lost connection: Server closed
+[04:26:21] [Server thread/INFO]: La_Tortuga_Weona left the game
+[04:26:21] [Server thread/INFO]: Saving worlds
+[04:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Saved 130 block chunks, 183 entity chunks, 1 poi chunks in world 'world' in 0.41s
+[04:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:26:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[04:26:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:26:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:26:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:26:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:26:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[04:26:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:26:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:26:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:26:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
