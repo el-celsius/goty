@@ -108,3 +108,32 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [18:38:54] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
 [18:39:05] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> we
 [18:39:09] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> donde esta
+[18:39:32] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> pal coño
+[18:39:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[18:39:41] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> estoy haciendome una base
+[18:42:11] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[18:45:15] [User Authenticator #1/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[18:45:22] [Server thread/INFO]: LuSDxc joined the game
+[18:45:22] [Server thread/INFO]: LuSDxc[/127.25.114.145:33595] logged in with entity id 1333 at ([world]35.46109559781455, 100.17675927506424, 417.9589348157394)
+[18:45:46] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> neiker
+[18:45:57] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> que
+[18:46:02] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> lo que ud le metio es para que las cosas no desaparescan?
+[18:46:13] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> o mantener inventario?
+[18:46:16] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> ya arregle eso
+[18:46:22] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> no el inventario no
+[18:46:25] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> los items
+[18:46:50] [Async Chat Thread - #2/INFO]: [Not Secure] <.Kudo6693> tremendo
+[18:47:04] [Async Chat Thread - #2/INFO]: [Not Secure] <.Kudo6693> cambio carbón por hierro
+[18:47:07] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> osea que si uno se muere en el coño y no recuerda sejo
+[18:47:17] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> pelabolas
+[18:47:56] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> mrk yo creo que los lloros del grupo lo unico que hacen es joder de que no funciona el server
+[18:48:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> pero cuando esta prendido nadie entre
+[18:48:12] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> entra*
+[18:48:14] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> legal puros llorone
+[18:48:24] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> y yonantoni es el padrote
+[18:48:32] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> de los chilladores
+[18:48:43] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> el la gordita queras decir
+[18:48:53] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> goty
+[18:49:07] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> yon antoni
+[18:49:09] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[18:49:16] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
