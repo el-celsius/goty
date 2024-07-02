@@ -63,7 +63,7 @@ world-settings:
     thunder-chance: 100000
     merge-radius:
       item: 4.0
-      exp:  6.0
+      exp: 6.0
     mob-spawn-range: 3
     item-despawn-rate: 4000
     arrow-despawn-rate: 1200
