@@ -137,3 +137,5 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [18:49:07] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> yon antoni
 [18:49:09] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [18:49:16] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[18:49:38] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[18:49:38] [Server thread/INFO]: LuSDxc left the game
