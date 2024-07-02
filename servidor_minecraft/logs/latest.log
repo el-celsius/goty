@@ -243,3 +243,7 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [19:49:52] [Server thread/INFO]:  left the game
 [19:51:11] [Server thread/INFO]: LuSDxc lost connection: Disconnected
 [19:51:11] [Server thread/INFO]: LuSDxc left the game
+[19:56:00] [User Authenticator #4/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[19:56:01] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[19:56:01] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:34867] logged in with entity id 9979 at ([world]205.55495235677327, 49.0, -341.6993465009397)
+[19:58:46] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
