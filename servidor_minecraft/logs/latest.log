@@ -118,3 +118,4 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [21:48:39] [Server thread/INFO]: La_Tortuga_Weona joined the game
 [21:48:39] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:42189] logged in with entity id 3660 at ([world]-1307.8645897111037, 73.0, -300.6272809524519)
 [21:50:48] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.242.75.80 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[22:13:08] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
