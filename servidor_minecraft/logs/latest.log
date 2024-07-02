@@ -70,3 +70,11 @@
 [16:56:00] [Server thread/INFO]: Running delayed init tasks
 [16:56:00] [Server thread/INFO]: Done (32.318s)! For help, type "help"
 [16:56:00] [Server thread/INFO]: Timings Reset
+[17:10:28] [User Authenticator #0/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:10:30] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:10:31] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:44407] logged in with entity id 46 at ([world]23.967075359154496, -58.0, 28.69999998807907)
+[17:13:50] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[17:13:50] [Server thread/INFO]: La_Tortuga_Weona left the game
+[17:15:25] [User Authenticator #1/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:15:27] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:15:27] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:40531] logged in with entity id 181 at ([world]22.896058533487277, -49.0, 29.803818408165892)
