@@ -61,3 +61,13 @@
 [00:44:37] [Server thread/INFO]: La_Tortuga_Weona joined the game
 [00:44:38] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:58341] logged in with entity id 61 at ([world]-22.98085266451458, 104.0, 6.405075966834892)
 [00:47:15] [Server thread/INFO]: La_Tortuga_Weona was doomed to fall by Creeper
+[00:54:40] [Server thread/INFO]: La_Tortuga_Weona fell from a high place
+[00:59:09] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[00:59:09] [Server thread/INFO]: La_Tortuga_Weona left the game
+[00:59:31] [User Authenticator #1/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[00:59:34] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[00:59:34] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:35379] logged in with entity id 590 at ([world]34.85554719552321, 65.0, 39.487179618501756)
+[01:00:36] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[01:00:36] [Server thread/INFO]: La_Tortuga_Weona left the game
+[01:02:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+port<--[HERE]
