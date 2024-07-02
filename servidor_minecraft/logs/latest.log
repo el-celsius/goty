@@ -242,3 +242,19 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [23:36:10] [Async Chat Thread - #8/INFO]: [Not Secure] <LEO> epa y por que no vergas hacemos una llamada por whatsApp?
 [23:36:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
 [23:38:55] [Server thread/INFO]: LEO issued server command: /give @p diamond 50
+[23:39:59] [Server thread/INFO]: LuSDxc was slain by Wither Skeleton
+[23:40:24] [Server thread/INFO]: LEO issued server command: /c
+[23:42:30] [Server thread/INFO]: LEO issued server command: /tpa
+[23:43:24] [Server thread/INFO]: LEO issued server command: /tpa LuSDxc
+[23:43:37] [Server thread/INFO]: LEO has made the advancement [Acquire Hardware]
+[23:43:48] [Server thread/INFO]: LEO issued server command: /tpa
+[23:44:13] [Server thread/INFO]: LEO issued server command: /tpa LEO
+[23:44:36] [Server thread/INFO]: LEO has made the advancement [Isn't It Iron Pick]
+[23:46:07] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[23:46:22] [Async Chat Thread - #10/INFO]: [Not Secure] <La_Tortuga_Weona> }w
+[23:46:25] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[23:47:53] [User Authenticator #1/INFO]: UUID of player  is fc5bc365-aedf-30a8-8b89-04e462e29bde
+[23:47:56] [Server thread/INFO]:  joined the game
+[23:47:56] [Server thread/INFO]: [/127.218.33.188:34981] logged in with entity id 6027 at ([world]-190.465490167422, 115.0, 71.36759667346075)
+[23:48:07] [Async Chat Thread - #12/INFO]: [Not Secure] <La_Tortuga_Weona> edaurdo?
+[23:48:43] [Async Chat Thread - #12/INFO]: [Not Secure] <La_Tortuga_Weona> nose aga el edgy el pibe misterio quien eres ?
