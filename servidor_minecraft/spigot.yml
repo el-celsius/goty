@@ -22,7 +22,7 @@ messages:
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
 settings:
-  save-user-cache-on-stop-only: false
+  save-user-cache-on-stop-only: true
   sample-count: 12
   bungeecord: false
   player-shuffle: 0
@@ -58,18 +58,18 @@ commands:
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
-    view-distance: default
-    simulation-distance: default
+    view-distance: 5
+    simulation-distance: 5
     thunder-chance: 100000
     merge-radius:
-      item: 0.5
-      exp: -1.0
-    mob-spawn-range: 8
-    item-despawn-rate: 6000
+      item: 4.0
+      exp:  6.0
+    mob-spawn-range: 4
+    item-despawn-rate: 4000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
+    nerf-spawner-mobs: true
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     end-portal-sound-radius: 0
@@ -99,13 +99,13 @@ world-settings:
       glowberry-modifier: 100
       pitcherplant-modifier: 100
     entity-activation-range:
-      animals: 32
-      monsters: 32
-      raiders: 64
-      misc: 16
-      water: 16
-      villagers: 32
-      flying-monsters: 32
+      animals: 13
+      monsters: 20
+      raiders: 40
+      misc: 13
+      water: 13
+      villagers: 27
+      flying-monsters: 34
       wake-up-inactive:
         animals-max-per-tick: 4
         animals-every: 1200
@@ -122,7 +122,7 @@ world-settings:
       villagers-work-immunity-after: 100
       villagers-work-immunity-for: 20
       villagers-active-for-panic: true
-      tick-inactive-villagers: true
+      tick-inactive-villagers: false
       ignore-spectators: false
     entity-tracking-range:
       players: 128
