@@ -166,3 +166,79 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [23:28:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
 [23:28:35] [Server thread/INFO]: .Kudo6693 joined the game
 [23:28:35] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 2780 at ([world]-477.9497, 64.0, -495.92032)
+[23:29:11] [Server thread/INFO]: LuSDxc withered away while fighting Wither Skeleton
+[23:29:20] [Async Chat Thread - #4/INFO]: [Not Secure] <.NathanDark10> cual es la guachafita?
+[23:29:24] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[23:29:34] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[23:29:43] [Async Chat Thread - #4/INFO]: [Not Secure] <.Kudo6693> alv
+[23:29:55] [Async Chat Thread - #4/INFO]: [Not Secure] <.Kudo6693> ya estan en el nether estos dos
+[23:30:03] [Async Chat Thread - #4/INFO]: [Not Secure] <LEO> name?
+[23:30:48] [localSession-7-1/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[23:30:48] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[23:30:48] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 disconnected
+[23:30:48] [localSession-7-4/INFO]: [Geyser-Spigot] NathanDark10 has disconnected from the Java server because of Bedrock client timed out
+[23:30:48] [Server thread/INFO]: .NathanDark10 lost connection: Disconnected
+[23:30:48] [Server thread/INFO]: .NathanDark10 left the game
+[23:30:48] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[23:30:48] [Server thread/INFO]: .Kudo6693 left the game
+[23:31:02] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[23:31:02] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[23:31:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[23:31:02] [Server thread/INFO]: .Kudo6693 joined the game
+[23:31:02] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 3381 at ([world]-473.5352, 64.0, -486.0136)
+[23:31:10] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username NathanDark10
+[23:31:10] [localSession-7-3/INFO]: [Geyser-Spigot] NathanDark10 (logged in as: NathanDark10) has connected to the Java server
+[23:31:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 joined (UUID: 00000000-0000-0000-0009-01feef676b2c)
+[23:31:11] [Server thread/INFO]: .NathanDark10 joined the game
+[23:31:11] [Server thread/INFO]: .NathanDark10[/127.141.0.40:0] logged in with entity id 3500 at ([world]-11.363113, 109.0, 28.161213)
+[23:32:06] [Server thread/INFO]: LuSDxc withered away
+[23:32:18] [Async Chat Thread - #6/INFO]: [Not Secure] <.Kudo6693> wste we
+[23:32:23] [Server thread/WARN]: .NathanDark10 moved wrongly!
+[23:32:33] [Async Chat Thread - #6/INFO]: [Not Secure] <La_Tortuga_Weona> como les va el server?
+[23:32:43] [Server thread/INFO]: LEO issued server command: /tp
+[23:32:59] [localSession-7-3/INFO]: [Geyser-Spigot] NathanDark10 has disconnected from the Java server because of Bedrock client timed out
+[23:32:59] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 disconnected
+[23:32:59] [Server thread/INFO]: .NathanDark10 lost connection: Disconnected
+[23:32:59] [Server thread/INFO]: .NathanDark10 left the game
+[23:32:59] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[23:32:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[23:32:59] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[23:32:59] [Server thread/INFO]: .Kudo6693 left the game
+[23:33:03] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username NathanDark10
+[23:33:03] [localSession-7-4/INFO]: [Geyser-Spigot] NathanDark10 (logged in as: NathanDark10) has connected to the Java server
+[23:33:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 joined (UUID: 00000000-0000-0000-0009-01feef676b2c)
+[23:33:04] [Server thread/INFO]: .NathanDark10 joined the game
+[23:33:04] [Server thread/INFO]: .NathanDark10[/127.141.0.40:0] logged in with entity id 4056 at ([world]-70.25508, 149.0, 164.22385)
+[23:33:06] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[23:33:06] [localSession-7-1/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[23:33:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[23:33:06] [Server thread/INFO]: .Kudo6693 joined the game
+[23:33:06] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 4084 at ([world]-515.9533240105104, 78.0, -474.5966746550676)
+[23:33:12] [Server thread/INFO]: LEO issued server command: /t
+[23:33:27] [Async Chat Thread - #7/INFO]: [Not Secure] <.NathanDark10> si muero no pierdo nada?
+[23:33:29] [Async Chat Thread - #7/INFO]: [Not Secure] <La_Tortuga_Weona> se les sale el server wes
+[23:33:31] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[23:33:37] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[23:33:45] [Async Chat Thread - #7/INFO]: [Not Secure] <.Kudo6693> que no ves o que
+[23:33:48] [Async Chat Thread - #7/INFO]: [Not Secure] <.Kudo6693> obvio
+[23:33:56] [Async Chat Thread - #7/INFO]: [Not Secure] <La_Tortuga_Weona> nathan la cosa es que si usted se muere las cosas no desaparecen
+[23:34:06] [Async Chat Thread - #7/INFO]: [Not Secure] <.NathanDark10> como?
+[23:34:30] [Server thread/INFO]: .NathanDark10 fell from a high place
+[23:34:30] [Async Chat Thread - #7/INFO]: [Not Secure] <.Kudo6693> si muere las pierde
+[23:34:33] [Server thread/INFO]: LEO issued server command: /tpa -205 125 263
+[23:34:35] [Async Chat Thread - #7/INFO]: [Not Secure] <La_Tortuga_Weona> porque antes el servidor borraba las cosas que usted dejaba cuando moria
+[23:34:44] [Async Chat Thread - #7/INFO]: [Not Secure] <.Kudo6693> pero si no sabe donde quedaron vale vrga
+[23:35:05] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[23:35:21] [Server thread/INFO]: LuSDxc hit the ground too hard
+[23:35:22] [localSession-7-4/INFO]: [Geyser-Spigot] NathanDark10 has disconnected from the Java server because of Bedrock client timed out
+[23:35:22] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 disconnected
+[23:35:22] [localSession-7-1/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[23:35:22] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[23:35:22] [Server thread/INFO]: .NathanDark10 lost connection: Disconnected
+[23:35:22] [Server thread/INFO]: .NathanDark10 left the game
+[23:35:22] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[23:35:22] [Server thread/INFO]: .Kudo6693 left the game
+[23:35:47] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[23:36:10] [Async Chat Thread - #8/INFO]: [Not Secure] <LEO> epa y por que no vergas hacemos una llamada por whatsApp?
+[23:36:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[23:38:55] [Server thread/INFO]: LEO issued server command: /give @p diamond 50
