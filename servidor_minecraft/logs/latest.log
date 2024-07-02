@@ -269,3 +269,8 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [20:38:28] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:35043] logged in with entity id 12921 at ([world]115.4040467870909, 86.0, -345.80805617518564)
 [20:42:37] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
 [20:42:46] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[20:48:02] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[20:49:06] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.156.44.191 has disconnected for reason Please log into Xbox to join this server.
+[20:49:45] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[20:54:01] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[20:54:04] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
