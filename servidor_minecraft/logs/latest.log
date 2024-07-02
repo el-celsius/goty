@@ -248,3 +248,17 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [19:56:01] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:34867] logged in with entity id 9979 at ([world]205.55495235677327, 49.0, -341.6993465009397)
 [19:58:46] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
 [20:08:01] [Server thread/INFO]: La_Tortuga_Weona has made the advancement [Sneak 100]
+[20:27:10] [User Authenticator #5/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[20:27:16] [Server thread/INFO]: LuSDxc joined the game
+[20:27:16] [Server thread/INFO]: LuSDxc[/127.25.114.145:46553] logged in with entity id 11597 at ([world]-820.8655765038447, 36.0, -270.4025395006796)
+[20:27:46] [Server thread/INFO]: LuSDxc lost connection: Timed out
+[20:27:47] [Server thread/INFO]: LuSDxc left the game
+[20:28:15] [User Authenticator #6/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[20:28:21] [Server thread/INFO]: LuSDxc joined the game
+[20:28:21] [Server thread/INFO]: LuSDxc[/127.25.114.145:43403] logged in with entity id 11767 at ([world]-820.8655765038447, 36.0, -270.4025395006796)
+[20:28:23] [Async Chat Thread - #32/INFO]: [Not Secure] <La_Tortuga_Weona> eo
+[20:28:29] [Async Chat Thread - #32/INFO]: [Not Secure] <LuSDxc> weon conteste
+[20:28:32] [Async Chat Thread - #32/INFO]: [Not Secure] <LuSDxc> por discord
+[20:28:51] [Async Chat Thread - #32/INFO]: [Not Secure] <La_Tortuga_Weona> ya va
+[20:29:02] [Async Chat Thread - #32/INFO]: [Not Secure] <La_Tortuga_Weona> que estoy entre la vida y lamuerte
+[20:29:41] [Async Chat Thread - #32/INFO]: [Not Secure] <LuSDxc> pedaso de goty
