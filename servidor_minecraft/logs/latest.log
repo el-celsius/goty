@@ -231,3 +231,15 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [19:37:35] [Async Chat Thread - #26/INFO]: [Not Secure] <LuSDxc> quien es ud
 [19:37:56] [Async Chat Thread - #27/INFO]: [Not Secure] <> quien es usted
 [19:38:11] [Async Chat Thread - #27/INFO]: [Not Secure] <> jesus?
+[19:43:14] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[19:43:14] [Server thread/INFO]: La_Tortuga_Weona left the game
+[19:46:26] [Async Chat Thread - #28/INFO]: [Not Secure] <.Kudo6693> goty
+[19:47:37] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[19:47:37] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client disconnected
+[19:47:37] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[19:47:37] [Server thread/INFO]: .Kudo6693 left the game
+[19:48:44] [Async Chat Thread - #30/INFO]: [Not Secure] <LuSDxc> epa el que queda hay es leo?
+[19:49:52] [Server thread/INFO]:  lost connection: Disconnected
+[19:49:52] [Server thread/INFO]:  left the game
+[19:51:11] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[19:51:11] [Server thread/INFO]: LuSDxc left the game
