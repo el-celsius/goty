@@ -72,3 +72,10 @@
 [01:02:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
 port<--[HERE]
 [01:04:25] [User Authenticator #2/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[01:04:27] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[01:04:27] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:60857] logged in with entity id 591 at ([world]34.85554719552321, 65.0, 39.487179618501756)
+[01:13:46] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[01:13:46] [Server thread/INFO]: La_Tortuga_Weona left the game
+[01:13:48] [User Authenticator #3/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[01:13:54] [Server thread/INFO]: LuSDxc joined the game
+[01:13:54] [Server thread/INFO]: LuSDxc[/127.25.114.145:45443] logged in with entity id 935 at ([world]5.5, 103.0, -6.5)
