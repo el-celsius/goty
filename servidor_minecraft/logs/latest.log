@@ -136,3 +136,33 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [23:14:37] [Server thread/INFO]: LEO fell from a high place
 [23:15:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LuSDxc> regresemosw
 [23:15:35] [Server thread/INFO]: LuSDxc has completed the challenge [Return to Sender]
+[23:20:51] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
+[23:27:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.241.86.181 has disconnected for reason Please log into Xbox to join this server.
+[23:27:37] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[23:27:37] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[23:27:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[23:27:38] [Server thread/INFO]: .Kudo6693 joined the game
+[23:27:38] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 2443 at ([world]-477.9497, 64.0, -495.92032)
+[23:27:48] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username NathanDark10
+[23:27:48] [localSession-7-3/INFO]: [Geyser-Spigot] NathanDark10 (logged in as: NathanDark10) has connected to the Java server
+[23:27:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 joined (UUID: 00000000-0000-0000-0009-01feef676b2c)
+[23:27:48] [Server thread/INFO]: .NathanDark10 joined the game
+[23:27:48] [Server thread/INFO]: .NathanDark10[/127.141.0.40:0] logged in with entity id 2594 at ([world]9.5, 105.0, 7.5)
+[23:28:28] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[23:28:28] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[23:28:28] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[23:28:28] [Server thread/INFO]: .Kudo6693 left the game
+[23:28:28] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 disconnected
+[23:28:28] [localSession-7-3/INFO]: [Geyser-Spigot] NathanDark10 has disconnected from the Java server because of Bedrock client timed out
+[23:28:28] [Server thread/INFO]: .NathanDark10 lost connection: Disconnected
+[23:28:28] [Server thread/INFO]: .NathanDark10 left the game
+[23:28:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username NathanDark10
+[23:28:35] [localSession-7-4/INFO]: [Geyser-Spigot] NathanDark10 (logged in as: NathanDark10) has connected to the Java server
+[23:28:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .NathanDark10 joined (UUID: 00000000-0000-0000-0009-01feef676b2c)
+[23:28:35] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[23:28:35] [localSession-7-1/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[23:28:35] [Server thread/INFO]: .NathanDark10 joined the game
+[23:28:35] [Server thread/INFO]: .NathanDark10[/127.141.0.40:0] logged in with entity id 2776 at ([world]9.398516, 105.0, 6.121173)
+[23:28:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[23:28:35] [Server thread/INFO]: .Kudo6693 joined the game
+[23:28:35] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 2780 at ([world]-477.9497, 64.0, -495.92032)
