@@ -118,3 +118,9 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [18:07:10] [Server thread/INFO]: LuSDxc[/127.25.114.145:39757] logged in with entity id 1245 at ([world]-935.1474999503546, -20.0, 331.6316991467012)
 [18:07:59] [Server thread/INFO]: LuSDxc lost connection: Disconnected
 [18:07:59] [Server thread/INFO]: LuSDxc left the game
+[18:22:02] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
+[18:22:02] [Server thread/INFO]: La_Tortuga_Weona left the game
+[18:29:31] [User Authenticator #4/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[18:29:37] [Server thread/INFO]: Kudo joined the game
+[18:29:37] [Server thread/INFO]: Kudo[/127.241.86.181:46719] logged in with entity id 1768 at ([world]-707.6476407382324, 69.0, -574.4418096516247)
+[18:30:18] [Server thread/INFO]: Kudo has made the advancement [Not Today, Thank You]
