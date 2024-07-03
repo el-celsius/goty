@@ -165,3 +165,12 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [23:24:08] [User Authenticator #5/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
 [23:24:11] [Server thread/INFO]: Kudo joined the game
 [23:24:11] [Server thread/INFO]: Kudo[/127.241.86.181:51153] logged in with entity id 6197 at ([world]-603.4587061828045, 64.0, -575.5731025341428)
+[23:30:08] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Sweet Dreams]
+[23:30:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Kudo> neiker plasta duerma
+[23:30:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSea28130459> holsa
+[23:30:38] [Async Chat Thread - #4/INFO]: [Not Secure] <La_Tortuga_Weona> ya voy
+[23:30:47] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSea28130459> duelme
+[23:31:03] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSea28130459> porfa
+[23:34:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Kudo> neiker venga mmgvo
+[23:34:23] [Server thread/INFO]: Villager Villager['Farmer'/8454, uuid='c4891802-c9de-4286-960e-33e0bd566a13', l='ServerLevel[world]', x=1110.42, y=64.00, z=-628.77, cpos=[69, -40], tl=2236, v=true] died, message: 'Farmer was shot by Pillager'
+[23:34:36] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Acquire Hardware]
