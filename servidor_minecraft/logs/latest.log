@@ -140,3 +140,12 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [17:23:31] [User Authenticator #2/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
 [17:23:37] [Server thread/INFO]: Kudo joined the game
 [17:23:37] [Server thread/INFO]: Kudo[/127.241.86.181:51741] logged in with entity id 938 at ([world]25.808412368749764, 95.0, -13.321825261519555)
+[17:25:27] [Server thread/INFO]: Kudo issued server command: /tpa -657 64 -599
+[17:32:55] [Server thread/INFO]: Kudo has made the advancement [Suit Up]
+[17:33:09] [Server thread/INFO]: Kudo has made the advancement [Isn't It Iron Pick]
+[17:34:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Kudo> listó
+[17:34:22] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> que
+[17:34:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Kudo> conseguí las cosas de bedrock la acá
+[17:34:41] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> goty
+[17:35:15] [Server thread/INFO]: Kudo lost connection: Disconnected
+[17:35:15] [Server thread/INFO]: Kudo left the game
