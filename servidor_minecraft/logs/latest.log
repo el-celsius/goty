@@ -113,3 +113,5 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:03:09] [Server thread/INFO]: La_Tortuga_Weona joined the game
 [22:03:09] [Server thread/INFO]: La_Tortuga_Weona[/127.107.70.79:49143] logged in with entity id 240 at ([world]-991.5360095688459, 63.0, 47.56668673671251)
 [22:03:57] [Server thread/INFO]: La_Tortuga_Weona was shot by Pillager
+[22:16:45] [Server thread/INFO]: Villager Villager['Mason'/363, uuid='4a4d08e8-85ce-4676-8246-ae43439e0d4d', l='ServerLevel[world]', x=-909.70, y=68.00, z=152.30, cpos=[-57, 9], tl=102663, v=true] died, message: 'Mason was slain by Zombie'
+[22:19:01] [Server thread/INFO]: Villager Villager['Fisherman'/351, uuid='d5a526c0-bf6d-473b-883a-498e800cca77', l='ServerLevel[world]', x=-927.50, y=64.88, z=169.50, cpos=[-58, 10], tl=96181, v=true] died, message: 'Fisherman was slain by Zombie'
