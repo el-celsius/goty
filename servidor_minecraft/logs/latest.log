@@ -109,3 +109,12 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [17:59:18] [User Authenticator #2/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
 [17:59:24] [Server thread/INFO]: LuSDxc joined the game
 [17:59:24] [Server thread/INFO]: LuSDxc[/127.213.68.72:45345] logged in with entity id 871 at ([world]-933.6999999880791, -20.0, 331.69999998807907)
+[18:00:04] [Async Chat Thread - #1/INFO]: [Not Secure] <LuSDxc> deje el vicio neiker
+[18:00:44] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[18:00:44] [Server thread/INFO]: LuSDxc left the game
+[18:04:41] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[18:06:59] [User Authenticator #3/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[18:07:10] [Server thread/INFO]: LuSDxc joined the game
+[18:07:10] [Server thread/INFO]: LuSDxc[/127.25.114.145:39757] logged in with entity id 1245 at ([world]-935.1474999503546, -20.0, 331.6316991467012)
+[18:07:59] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[18:07:59] [Server thread/INFO]: LuSDxc left the game
