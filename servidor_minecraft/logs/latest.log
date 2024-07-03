@@ -127,3 +127,10 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:32:25] [Server thread/INFO]: .ColdSea28130459 lost connection: Disconnected
 [22:32:25] [Server thread/INFO]: .ColdSea28130459 left the game
 [22:37:59] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
+[22:43:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ColdSea28130459
+[22:43:28] [localSession-7-3/INFO]: [Geyser-Spigot] ColdSea28130459 (logged in as: ColdSea28130459) has connected to the Java server
+[22:43:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSea28130459 joined (UUID: 00000000-0000-0000-0009-01fa88e1ee71)
+[22:43:29] [Server thread/INFO]: .ColdSea28130459 joined the game
+[22:43:29] [Server thread/INFO]: .ColdSea28130459[/127.97.69.255:0] logged in with entity id 2415 at ([world]61.005787, 101.0, 162.62846)
+[22:45:09] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Getting an Upgrade]
+[22:52:13] [Server thread/INFO]: .ColdSea28130459 was slain by Zombie
