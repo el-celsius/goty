@@ -109,3 +109,7 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [21:56:20] [Server thread/INFO]: La_Tortuga_Weona[/127.107.70.79:52105] logged in with entity id 139 at ([world]-991.5360095688459, 63.0, 47.56668673671251)
 [21:56:51] [Server thread/INFO]: La_Tortuga_Weona lost connection: Timed out
 [21:56:51] [Server thread/INFO]: La_Tortuga_Weona left the game
+[22:03:07] [User Authenticator #3/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[22:03:09] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[22:03:09] [Server thread/INFO]: La_Tortuga_Weona[/127.107.70.79:49143] logged in with entity id 240 at ([world]-991.5360095688459, 63.0, 47.56668673671251)
+[22:03:57] [Server thread/INFO]: La_Tortuga_Weona was shot by Pillager
