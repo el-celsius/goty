@@ -495,3 +495,32 @@
 [03:52:36] [User Authenticator #16/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
 [03:52:37] [Server thread/INFO]: La_Tortuga_Weona joined the game
 [03:52:37] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:57359] logged in with entity id 31354 at ([world]-959.4494837802708, -12.971526364627456, 113.79954016079047)
+[03:56:04] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username StarGalaxy34618
+[03:56:04] [localSession-7-3/INFO]: [Geyser-Spigot] StarGalaxy34618 (logged in as: StarGalaxy34618) has connected to the Java server
+[03:56:04] [User Authenticator #17/INFO]: UUID of player StarGalaxy34618 is 1adc0e1a-7ab3-3bcb-a895-4bdeb2436f24
+[03:56:04] [Server thread/INFO]: StarGalaxy34618 joined the game
+[03:56:04] [Server thread/INFO]: StarGalaxy34618[/127.229.29.62:0] logged in with entity id 32049 at ([world]9.5, 102.0, -0.5)
+[03:56:26] [Async Chat Thread - #96/INFO]: [Not Secure] <StarGalaxy34618> neiker
+[03:56:31] [Server thread/INFO]: NathanDark10 issued server command: /tpa la
+[03:56:56] [Server thread/INFO]: StarGalaxy34618 was slain by Zombie
+[03:56:56] [localSession-7-3/INFO]: [Geyser-Spigot] StarGalaxy34618 has disconnected from the Java server because of Bedrock client timed out
+[03:56:56] [Server thread/INFO]: StarGalaxy34618 lost connection: Disconnected
+[03:56:56] [Server thread/INFO]: StarGalaxy34618 left the game
+[03:57:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username StarGalaxy34618
+[03:57:04] [localSession-7-4/INFO]: [Geyser-Spigot] StarGalaxy34618 (logged in as: StarGalaxy34618) has connected to the Java server
+[03:57:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .StarGalaxy34618 joined (UUID: 00000000-0000-0000-0009-01fe43eae9a9)
+[03:57:04] [Server thread/INFO]: .StarGalaxy34618 joined the game
+[03:57:04] [Server thread/INFO]: .StarGalaxy34618[/127.229.29.62:0] logged in with entity id 32216 at ([world]75.95623, 93.0, 69.601746)
+[03:57:23] [Async Chat Thread - #96/INFO]: [Not Secure] <.StarGalaxy34618> neiker
+[03:57:28] [Async Chat Thread - #96/INFO]: [Not Secure] <La_Tortuga_Weona> ke
+[03:57:35] [Server thread/INFO]: .StarGalaxy34618 was slain by Zombie
+[03:57:46] [Async Chat Thread - #96/INFO]: [Not Secure] <.StarGalaxy34618> manda coordenadas
+[03:57:58] [Async Chat Thread - #96/INFO]: [Not Secure] <La_Tortuga_Weona> estoy en unas cuevas we
+[03:58:23] [localSession-7-4/INFO]: [Geyser-Spigot] StarGalaxy34618 has disconnected from the Java server because of Bedrock client disconnected
+[03:58:23] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .StarGalaxy34618 disconnected
+[03:58:23] [Server thread/INFO]: .StarGalaxy34618 lost connection: Disconnected
+[03:58:24] [Server thread/INFO]: .StarGalaxy34618 left the game
+[04:01:49] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[04:01:49] [Server thread/INFO]: La_Tortuga_Weona left the game
+[04:01:51] [Server thread/INFO]: NathanDark10 lost connection: Disconnected
+[04:01:52] [Server thread/INFO]: NathanDark10 left the game
