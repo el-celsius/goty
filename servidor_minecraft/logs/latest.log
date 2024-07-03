@@ -1,48 +1,48 @@
-[16:32:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:32:49] [ServerMain/INFO]: Loaded 1290 recipes
-[16:32:50] [ServerMain/INFO]: Loaded 1399 advancements
-[16:32:50] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:32:50] [Server thread/INFO]: Loading properties
-[16:32:51] [Server thread/INFO]: This server is running Paper version 1.21-40-master@b45d9b6 (2024-07-01T08:23:14Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[16:32:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:32:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:32:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[17:49:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:49:14] [ServerMain/INFO]: Loaded 1290 recipes
+[17:49:15] [ServerMain/INFO]: Loaded 1399 advancements
+[17:49:15] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:49:15] [Server thread/INFO]: Loading properties
+[17:49:15] [Server thread/INFO]: This server is running Paper version 1.21-40-master@b45d9b6 (2024-07-01T08:23:14Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[17:49:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:49:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:49:17] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[16:32:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[16:32:53] [Server thread/INFO]: Default game type: SURVIVAL
-[16:32:53] [Server thread/INFO]: Generating keypair
-[16:32:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:32:53] [Server thread/INFO]: Using epoll channel type
-[16:32:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:32:53] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:32:53] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[16:32:58] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[16:32:58] [Server thread/INFO]: [floodgate] Took 4,411ms to boot Floodgate
-[16:32:58] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[16:32:58] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.73
-[16:32:58] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[16:32:58] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[16:33:00] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[16:33:00] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[16:33:00] [Server thread/INFO]: [TPAPlugin] Loading server plugin TPAPlugin v1.2
-[16:33:00] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
-[16:33:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:33:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:33:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:33:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:33:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:33:00] [Server thread/INFO]: Preparing level "world"
-[16:33:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:33:04] [Server thread/INFO]: Time elapsed: 2292 ms
-[16:33:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:33:04] [Server thread/INFO]: Time elapsed: 450 ms
-[16:33:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:33:04] [Server thread/INFO]: Time elapsed: 322 ms
-[16:33:04] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[16:33:06] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[16:33:06] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[16:33:06] [Server thread/ERROR]: Error occurred while enabling ClearLag v3.2.2 (Is it up to date?)
+[17:49:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:49:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:49:18] [Server thread/INFO]: Generating keypair
+[17:49:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:49:18] [Server thread/INFO]: Using epoll channel type
+[17:49:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:49:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:49:18] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[17:49:21] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[17:49:22] [Server thread/INFO]: [floodgate] Took 3,062ms to boot Floodgate
+[17:49:22] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[17:49:22] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.73
+[17:49:22] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[17:49:22] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[17:49:24] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:49:24] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:49:24] [Server thread/INFO]: [TPAPlugin] Loading server plugin TPAPlugin v1.2
+[17:49:24] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[17:49:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:49:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:49:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:49:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:49:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:49:24] [Server thread/INFO]: Preparing level "world"
+[17:49:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:49:27] [Server thread/INFO]: Time elapsed: 2022 ms
+[17:49:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:49:27] [Server thread/INFO]: Time elapsed: 246 ms
+[17:49:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:49:27] [Server thread/INFO]: Time elapsed: 198 ms
+[17:49:27] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[17:49:29] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[17:49:29] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[17:49:29] [Server thread/ERROR]: Error occurred while enabling ClearLag v3.2.2 (Is it up to date?)
 org.yaml.snakeyaml.constructor.ConstructorException: could not determine a constructor for the tag !Minecart
  in 'reader', line 149, column 7:
         - !Minecart
@@ -78,74 +78,31 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1157) ~[paper-1.21.jar:1.21-40-b45d9b6]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329) ~[paper-1.21.jar:1.21-40-b45d9b6]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:33:06] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[16:33:06] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[16:33:07] [Server thread/INFO]: [spark] Enabling spark v1.10.73
-[16:33:08] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[16:33:08] [Server thread/INFO]: [spark] Starting background profiler...
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[16:33:10] [Server thread/INFO]: [TPAPlugin] Enabling TPAPlugin v1.2
-[16:33:10] [Server thread/INFO]: [TPAPlugin] Thank you for using the TPAPlugin plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
-[16:33:10] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] 
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b588 (git-master-48ea81e)
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] 
-[16:33:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[16:33:19] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:3932
-[16:33:20] [Server thread/INFO]: [Geyser-Spigot] Done (9.606s)! Run /geyser help for help!
-[16:33:20] [Server thread/INFO]: Running delayed init tasks
-[16:33:20] [Server thread/INFO]: Done (29.571s)! For help, type "help"
-[16:33:20] [Server thread/INFO]: Timings Reset
-[16:37:31] [User Authenticator #0/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[16:37:33] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[16:37:33] [Server thread/INFO]: La_Tortuga_Weona[/127.118.93.6:53611] logged in with entity id 15 at ([world]-958.424757162197, -20.0, 340.56872245131296)
-[16:37:44] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
-[16:37:44] [Server thread/INFO]: La_Tortuga_Weona left the game
-[17:14:07] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
-[17:14:07] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
-[17:14:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
-[17:14:08] [Server thread/INFO]: .Kudo6693 joined the game
-[17:14:08] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 80 at ([world]-650.39185, 67.0, -606.6368)
-[17:15:59] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
-[17:15:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
-[17:15:59] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
-[17:15:59] [Server thread/INFO]: .Kudo6693 left the game
-[17:16:36] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
-[17:16:36] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
-[17:16:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
-[17:16:36] [Server thread/INFO]: .Kudo6693 joined the game
-[17:16:36] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 292 at ([world]-656.4259, 64.0, -598.8241)
-[17:17:35] [User Authenticator #1/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
-[17:17:39] [Server thread/INFO]: La_Tortuga_Weona joined the game
-[17:17:39] [Server thread/INFO]: La_Tortuga_Weona[/127.118.93.6:34029] logged in with entity id 457 at ([world]-958.424757162197, -20.0, 340.56872245131296)
-[17:17:57] [Async Chat Thread - #1/INFO]: [Not Secure] <.Kudo6693> epa we
-[17:18:10] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> que
-[17:18:18] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> yo puedo usar el tp con coordenadas?
-[17:18:25] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> no we
-[17:19:57] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
-[17:19:57] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
-[17:19:57] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
-[17:19:57] [Server thread/INFO]: .Kudo6693 left the game
-[17:21:19] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
-[17:21:19] [localSession-7-4/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
-[17:21:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
-[17:21:19] [Server thread/INFO]: .Kudo6693 joined the game
-[17:21:19] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 705 at ([world]-655.74884, 64.0, -598.27496)
-[17:21:42] [Server thread/INFO]: .Kudo6693 was slain by Zombie
-[17:22:03] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
-[17:22:03] [localSession-7-4/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
-[17:22:03] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
-[17:22:03] [Server thread/INFO]: .Kudo6693 left the game
-[17:23:31] [User Authenticator #2/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
-[17:23:37] [Server thread/INFO]: Kudo joined the game
-[17:23:37] [Server thread/INFO]: Kudo[/127.241.86.181:51741] logged in with entity id 938 at ([world]25.808412368749764, 95.0, -13.321825261519555)
-[17:25:27] [Server thread/INFO]: Kudo issued server command: /tpa -657 64 -599
-[17:32:55] [Server thread/INFO]: Kudo has made the advancement [Suit Up]
-[17:33:09] [Server thread/INFO]: Kudo has made the advancement [Isn't It Iron Pick]
-[17:34:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Kudo> listó
-[17:34:22] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> que
-[17:34:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Kudo> conseguí las cosas de bedrock la acá
-[17:34:41] [Async Chat Thread - #2/INFO]: [Not Secure] <La_Tortuga_Weona> goty
-[17:35:15] [Server thread/INFO]: Kudo lost connection: Disconnected
-[17:35:15] [Server thread/INFO]: Kudo left the game
+[17:49:29] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:49:29] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:49:29] [Server thread/INFO]: [spark] Enabling spark v1.10.73
+[17:49:30] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[17:49:30] [Server thread/INFO]: [spark] Starting background profiler...
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[17:49:32] [Server thread/INFO]: [TPAPlugin] Enabling TPAPlugin v1.2
+[17:49:32] [Server thread/INFO]: [TPAPlugin] Thank you for using the TPAPlugin plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com
+[17:49:32] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] 
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b588 (git-master-48ea81e)
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] 
+[17:49:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:49:42] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:3932
+[17:49:43] [Server thread/INFO]: [Geyser-Spigot] Done (10.627s)! Run /geyser help for help!
+[17:49:43] [Server thread/INFO]: Running delayed init tasks
+[17:49:43] [Server thread/INFO]: Done (27.529s)! For help, type "help"
+[17:49:43] [Server thread/INFO]: Timings Reset
+[17:49:49] [User Authenticator #0/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:49:51] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:49:52] [Server thread/INFO]: La_Tortuga_Weona[/127.118.93.6:43969] logged in with entity id 21 at ([world]-926.9241270597378, 67.0, 79.78134715609501)
+[17:55:12] [User Authenticator #1/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[17:55:17] [Server thread/INFO]: Kudo joined the game
+[17:55:17] [Server thread/INFO]: Kudo[/127.241.86.181:34715] logged in with entity id 431 at ([world]-676.9141754515045, 64.0, -603.2061007257781)
+[17:56:43] [Server thread/INFO]: La_Tortuga_Weona was slain by Husk
+[17:56:59] [Server thread/INFO]: Kudo lost connection: Disconnected
+[17:56:59] [Server thread/INFO]: Kudo left the game
