@@ -376,3 +376,4 @@
 [02:48:27] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.98.220.146 has disconnected for reason Please log into Xbox to join this server.
 [02:49:55] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [02:50:04] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[02:51:05] [User Authenticator #14/INFO]: UUID of player NathanDark10 is 1f95d6fc-e638-3977-953c-4ea558a65046
