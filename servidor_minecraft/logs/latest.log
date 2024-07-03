@@ -134,3 +134,9 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:43:29] [Server thread/INFO]: .ColdSea28130459[/127.97.69.255:0] logged in with entity id 2415 at ([world]61.005787, 101.0, 162.62846)
 [22:45:09] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Getting an Upgrade]
 [22:52:13] [Server thread/INFO]: .ColdSea28130459 was slain by Zombie
+[22:57:43] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Monster Hunter]
+[22:58:42] [Server thread/INFO]: .ColdSea28130459 was slain by Zombie
+[22:59:53] [localSession-7-3/INFO]: [Geyser-Spigot] ColdSea28130459 has disconnected from the Java server because of Bedrock client disconnected
+[22:59:53] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ColdSea28130459 disconnected
+[22:59:53] [Server thread/INFO]: .ColdSea28130459 lost connection: Disconnected
+[22:59:53] [Server thread/INFO]: .ColdSea28130459 left the game
