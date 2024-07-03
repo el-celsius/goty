@@ -106,3 +106,6 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [17:56:43] [Server thread/INFO]: La_Tortuga_Weona was slain by Husk
 [17:56:59] [Server thread/INFO]: Kudo lost connection: Disconnected
 [17:56:59] [Server thread/INFO]: Kudo left the game
+[17:59:18] [User Authenticator #2/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[17:59:24] [Server thread/INFO]: LuSDxc joined the game
+[17:59:24] [Server thread/INFO]: LuSDxc[/127.213.68.72:45345] logged in with entity id 871 at ([world]-933.6999999880791, -20.0, 331.69999998807907)
