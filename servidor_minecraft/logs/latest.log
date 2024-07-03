@@ -558,3 +558,8 @@
 [06:08:51] [Server thread/INFO]: LuSDxc was shot by La_Tortuga_Weona
 [06:09:03] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [06:09:03] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[06:13:53] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[06:14:01] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[06:15:10] [Server thread/INFO]: LuSDxc was shot by La_Tortuga_Weona
+[06:15:19] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[06:15:20] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
