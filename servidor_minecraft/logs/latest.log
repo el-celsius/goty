@@ -102,3 +102,8 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [16:37:33] [Server thread/INFO]: La_Tortuga_Weona[/127.118.93.6:53611] logged in with entity id 15 at ([world]-958.424757162197, -20.0, 340.56872245131296)
 [16:37:44] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
 [16:37:44] [Server thread/INFO]: La_Tortuga_Weona left the game
+[17:14:07] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[17:14:07] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[17:14:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[17:14:08] [Server thread/INFO]: .Kudo6693 joined the game
+[17:14:08] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 80 at ([world]-650.39185, 67.0, -606.6368)
