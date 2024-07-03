@@ -122,3 +122,8 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:27:26] [Server thread/INFO]: .ColdSea28130459[/127.242.75.80:0] logged in with entity id 1449 at ([world]1.5, 102.0, 3.5)
 [22:29:13] [Server thread/INFO]: .ColdSea28130459 has made the advancement [Stone Age]
 [22:31:10] [Server thread/INFO]: Villager Villager['Weaponsmith'/329, uuid='6209c2db-d4e6-41b9-8c8c-8d096fe4bcdf', l='ServerLevel[world]', x=-884.87, y=67.00, z=123.30, cpos=[-56, 7], tl=95927, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[22:32:25] [localSession-7-2/INFO]: [Geyser-Spigot] ColdSea28130459 has disconnected from the Java server because of Bedrock client disconnected
+[22:32:25] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ColdSea28130459 disconnected
+[22:32:25] [Server thread/INFO]: .ColdSea28130459 lost connection: Disconnected
+[22:32:25] [Server thread/INFO]: .ColdSea28130459 left the game
+[22:37:59] [Server thread/INFO]: La_Tortuga_Weona was slain by Zombie
