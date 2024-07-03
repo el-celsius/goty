@@ -107,3 +107,36 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [17:14:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
 [17:14:08] [Server thread/INFO]: .Kudo6693 joined the game
 [17:14:08] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 80 at ([world]-650.39185, 67.0, -606.6368)
+[17:15:59] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[17:15:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[17:15:59] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[17:15:59] [Server thread/INFO]: .Kudo6693 left the game
+[17:16:36] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[17:16:36] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[17:16:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[17:16:36] [Server thread/INFO]: .Kudo6693 joined the game
+[17:16:36] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 292 at ([world]-656.4259, 64.0, -598.8241)
+[17:17:35] [User Authenticator #1/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[17:17:39] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[17:17:39] [Server thread/INFO]: La_Tortuga_Weona[/127.118.93.6:34029] logged in with entity id 457 at ([world]-958.424757162197, -20.0, 340.56872245131296)
+[17:17:57] [Async Chat Thread - #1/INFO]: [Not Secure] <.Kudo6693> epa we
+[17:18:10] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> que
+[17:18:18] [Async Chat Thread - #0/INFO]: [Not Secure] <.Kudo6693> yo puedo usar el tp con coordenadas?
+[17:18:25] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> no we
+[17:19:57] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[17:19:57] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[17:19:57] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[17:19:57] [Server thread/INFO]: .Kudo6693 left the game
+[17:21:19] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[17:21:19] [localSession-7-4/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[17:21:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[17:21:19] [Server thread/INFO]: .Kudo6693 joined the game
+[17:21:19] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 705 at ([world]-655.74884, 64.0, -598.27496)
+[17:21:42] [Server thread/INFO]: .Kudo6693 was slain by Zombie
+[17:22:03] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[17:22:03] [localSession-7-4/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[17:22:03] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[17:22:03] [Server thread/INFO]: .Kudo6693 left the game
+[17:23:31] [User Authenticator #2/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[17:23:37] [Server thread/INFO]: Kudo joined the game
+[17:23:37] [Server thread/INFO]: Kudo[/127.241.86.181:51741] logged in with entity id 938 at ([world]25.808412368749764, 95.0, -13.321825261519555)
