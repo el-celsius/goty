@@ -140,3 +140,9 @@ org.yaml.snakeyaml.constructor.ConstructorException: could not determine a const
 [22:59:53] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ColdSea28130459 disconnected
 [22:59:53] [Server thread/INFO]: .ColdSea28130459 lost connection: Disconnected
 [22:59:53] [Server thread/INFO]: .ColdSea28130459 left the game
+[23:12:36] [User Authenticator #4/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[23:12:40] [Server thread/INFO]: Kudo joined the game
+[23:12:40] [Server thread/INFO]: Kudo[/127.241.86.181:44635] logged in with entity id 4705 at ([world]-607.6100409008295, 64.0, -551.501250102294)
+[23:13:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Kudo> duerma plasta
+[23:13:34] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> aguante como los hombres
+[23:13:45] [Async Chat Thread - #0/INFO]: [Not Secure] <La_Tortuga_Weona> plasta
