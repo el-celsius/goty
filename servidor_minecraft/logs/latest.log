@@ -223,3 +223,32 @@
 [01:45:11] [Async Chat Thread - #40/INFO]: [Not Secure] <> a voy
 [01:46:46] [Server thread/INFO]:  lost connection: Timed out
 [01:46:46] [Server thread/INFO]:  left the game
+[01:59:58] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.218.33.188 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0/1.20.1
+[02:03:30] [User Authenticator #8/INFO]: UUID of player NathanDark10 is 1f95d6fc-e638-3977-953c-4ea558a65046
+[02:03:32] [Server thread/INFO]: NathanDark10 joined the game
+[02:03:32] [Server thread/INFO]: NathanDark10[/127.141.0.40:57939] logged in with entity id 18211 at ([world]10.5, 101.0, -2.5)
+[02:03:37] [User Authenticator #8/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[02:03:42] [Server thread/INFO]: Kudo joined the game
+[02:03:42] [Server thread/INFO]: Kudo[/127.241.86.181:35563] logged in with entity id 18247 at ([world]-4.5, 104.0, -4.5)
+[02:04:08] [Server thread/INFO]: Kudo lost connection: Disconnected
+[02:04:08] [Server thread/INFO]: Kudo left the game
+[02:04:36] [User Authenticator #8/INFO]: UUID of player La_Tortuga_Weona is b41ba0b1-e825-336f-ba8b-d69d3c5b8ea4
+[02:04:38] [Server thread/INFO]: La_Tortuga_Weona joined the game
+[02:04:38] [Server thread/INFO]: La_Tortuga_Weona[/127.156.44.191:34865] logged in with entity id 18304 at ([world]-735.6999999880791, -48.0, -89.63217033704103)
+[02:04:53] [Server thread/INFO]: NathanDark10 lost connection: Disconnected
+[02:04:53] [Server thread/INFO]: NathanDark10 left the game
+[02:05:15] [User Authenticator #8/INFO]: UUID of player Kudo is 180bfc5e-7ba7-3749-8b9e-03b9ed35fb82
+[02:05:18] [Server thread/INFO]: Kudo joined the game
+[02:05:18] [Server thread/INFO]: Kudo[/127.241.86.181:50895] logged in with entity id 18344 at ([world]-8.699999988079071, 105.0, 4.336933604009492)
+[02:05:30] [Async Chat Thread - #42/INFO]: [Not Secure] <LuSDxc> por que se le cae?
+[02:06:24] [Async Chat Thread - #42/INFO]: [Not Secure] <Kudo> regalen hierro
+[02:06:33] [Async Chat Thread - #42/INFO]: [Not Secure] <LuSDxc> se cambia
+[02:06:52] [Async Chat Thread - #42/INFO]: [Not Secure] <Kudo> neiker
+[02:07:10] [Async Chat Thread - #42/INFO]: [Not Secure] <Kudo> como diablo paso las cosas que tenía en bedrock la acá
+[02:07:30] [Async Chat Thread - #42/INFO]: [Not Secure] <La_Tortuga_Weona> busquelas
+[02:07:42] [User Authenticator #9/INFO]: UUID of player NathanDark10 is 1f95d6fc-e638-3977-953c-4ea558a65046
+[02:07:44] [Server thread/INFO]: NathanDark10 joined the game
+[02:07:44] [Server thread/INFO]: NathanDark10[/127.141.0.40:49915] logged in with entity id 18569 at ([world]3.60214270718678, 102.0, 13.448342917258536)
+[02:07:47] [Async Chat Thread - #42/INFO]: [Not Secure] <Kudo> estoy en el perro diablo
+[02:07:47] [Async Chat Thread - #42/INFO]: [Not Secure] <LuSDxc> metase ne bedro pongalas en un cofre y luego las busca
+[02:08:03] [Async Chat Thread - #44/INFO]: [Not Secure] <NathanDark10> que van a saber ustedes
