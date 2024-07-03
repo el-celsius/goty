@@ -148,3 +148,26 @@
 [00:36:25] [Async Chat Thread - #30/INFO]: [Not Secure] <> voy
 [00:38:00] [Server thread/INFO]:  lost connection: Timed out
 [00:38:00] [Server thread/INFO]:  left the game
+[00:54:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[00:54:12] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[00:54:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[00:54:12] [Server thread/INFO]: .Kudo6693 joined the game
+[00:54:12] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 14475 at ([world]-575.7509, 65.0, -428.584)
+[00:56:26] [localSession-7-2/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client timed out
+[00:56:26] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[00:56:26] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[00:56:26] [Server thread/INFO]: .Kudo6693 left the game
+[00:56:41] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Kudo6693
+[00:56:41] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 (logged in as: Kudo6693) has connected to the Java server
+[00:56:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 joined (UUID: 00000000-0000-0000-0009-01fc24fcf30d)
+[00:56:41] [Server thread/INFO]: .Kudo6693 joined the game
+[00:56:41] [Server thread/INFO]: .Kudo6693[/127.241.86.181:0] logged in with entity id 14915 at ([world]-598.1641, 65.0, -613.4698)
+[00:57:14] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Kudo6693 disconnected
+[00:57:14] [localSession-7-3/INFO]: [Geyser-Spigot] Kudo6693 has disconnected from the Java server because of Bedrock client disconnected
+[00:57:14] [Server thread/INFO]: .Kudo6693 lost connection: Disconnected
+[00:57:14] [Server thread/INFO]: .Kudo6693 left the game
+[00:59:15] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[00:59:15] [Server thread/INFO]: LuSDxc left the game
+[01:01:27] [Async Chat Thread - #32/INFO]: [Not Secure] <La_Tortuga_Weona> alfredo ya vengo we
+[01:03:46] [Server thread/INFO]: La_Tortuga_Weona lost connection: Disconnected
+[01:03:46] [Server thread/INFO]: La_Tortuga_Weona left the game
