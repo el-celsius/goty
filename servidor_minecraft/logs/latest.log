@@ -90,3 +90,15 @@
 [01:18:40] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
 [01:21:52] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [01:22:12] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[01:23:32] [Server thread/INFO]: LuSDxc lost connection: Disconnected
+[01:23:32] [Server thread/INFO]: LuSDxc left the game
+[01:23:36] [Server thread/INFO]: La_Tortuga_Weona burned to death
+[01:23:45] [User Authenticator #11/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
+[01:23:51] [Server thread/INFO]: LuSDxc joined the game
+[01:23:51] [Server thread/INFO]: LuSDxc[/127.25.114.145:45115] logged in with entity id 22334 at ([world_nether]-223.23088337939788, 55.0, 56.01387009652406)
+[01:23:54] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[01:23:58] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[01:26:19] [Server thread/INFO]: La_Tortuga_Weona was burned to a crisp while fighting Blaze
+[01:26:27] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[01:26:36] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[01:32:40] [Server thread/INFO]: La_Tortuga_Weona has made the advancement [Who is Cutting Onions?]
