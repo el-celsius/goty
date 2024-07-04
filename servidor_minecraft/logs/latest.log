@@ -82,3 +82,6 @@
 [00:49:18] [User Authenticator #10/INFO]: UUID of player LuSDxc is ca23be7e-7e63-3de7-9084-0bc6b1d6ad13
 [00:49:23] [Server thread/INFO]: LuSDxc joined the game
 [00:49:23] [Server thread/INFO]: LuSDxc[/127.25.114.145:33815] logged in with entity id 19246 at ([world]-817.5, 36.875, -273.5)
+[00:51:53] [Async Chat Thread - #29/INFO]: [Not Secure] <LuSDxc> conteste cabro
+[00:56:02] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[00:56:04] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
