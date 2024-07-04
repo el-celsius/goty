@@ -253,3 +253,9 @@
 [04:16:30] [Server thread/INFO]: LuSDxc has made the advancement [Wax Off]
 [04:43:32] [Server thread/INFO]: LEO lost connection: Disconnected
 [04:43:32] [Server thread/INFO]: LEO left the game
+[04:48:42] [Server thread/INFO]: La_Tortuga_Weona fell from a high place
+[04:48:49] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[04:49:05] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[04:49:15] [Server thread/INFO]: LuSDxc was slain by Zombie
+[04:49:23] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
+[04:49:35] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
