@@ -259,3 +259,7 @@
 [04:49:15] [Server thread/INFO]: LuSDxc was slain by Zombie
 [04:49:23] [Server thread/INFO]: LuSDxc issued server command: /tpa La_Tortuga_Weona
 [04:49:35] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpaccept
+[05:14:42] [Server thread/WARN]: LuSDxc moved too quickly! 0.0,-10.05000039935112,0.0
+[05:15:55] [Server thread/INFO]: La_Tortuga_Weona issued server command: /tpa LuSDxc
+[05:15:58] [Server thread/INFO]: LuSDxc issued server command: /tpaccept
+[05:16:15] [Async Chat Thread - #59/INFO]: [Not Secure] <La_Tortuga_Weona> ew
